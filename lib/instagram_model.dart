@@ -7,7 +7,7 @@ import 'instagram_constant.dart';
 
 
 class InstagramModel {
-  List<String> userFields = ['id', 'username','account_type','media_count','profile_picture_url','followers_count'];
+  List<String> userFields = ['id', 'username','account_type','media_count','profile_picture_url','followers_count','follows_count','biography','website'];
 
   String? authorizationCode;
   String? accessToken;
