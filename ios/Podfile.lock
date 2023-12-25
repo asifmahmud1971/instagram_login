@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - insta_login (0.0.2):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - insta_login (from `.symlinks/plugins/insta_login/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  insta_login:
+    :path: ".symlinks/plugins/insta_login/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  insta_login: 9f571fd37c0fae5b59110949aecfafa9b6d7e5ba
+  webview_flutter_wkwebview: 2e2d318f21a5e036e2c3f26171342e95908bd60a
+
+PODFILE CHECKSUM: a57f30d18f102dd3ce366b1d62a55ecbef2158e5
+
+COCOAPODS: 1.14.3
